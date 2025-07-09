@@ -1,0 +1,7 @@
+torch
+torchvision
+pytorch-lightning
+efficientnet_pytorch
+streamlit
+Pillow
+torchmetrics
